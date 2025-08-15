@@ -1,4 +1,6 @@
-**Lecture 3: Types of Control Systems**
+# **Lecture 3: Types of Control Systems**
+- 📕Course: Control System Engineering
+- 🤖Instructor: Md. Hassanul Karim Roni, Assistant Professor, EEE, HSTU,Dinajpur,BD
 
 ---
 
