@@ -1,4 +1,6 @@
-**Lecture 9: 📊 Performance Analysis & Design Parameters**
+# **Lecture 9: 📊 Performance Analysis & Design Parameters**
+- 📕Course: Control System Engineering
+- 🤖Instructor: Md. Hassanul Karim Roni, Assistant Professor, EEE, HSTU,Dinajpur,BD
 
 ---
 
