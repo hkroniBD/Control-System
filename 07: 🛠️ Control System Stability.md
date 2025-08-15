@@ -1,4 +1,6 @@
-**Lecture 7: 🛠️ Control System Stability**
+# **Lecture 7: 🛠️ Control System Stability**
+- 📕Course: Control System Engineering
+- 🤖Instructor: Md. Hassanul Karim Roni, Assistant Professor, EEE, HSTU,Dinajpur,BD
 
 ---
 
