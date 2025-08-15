@@ -1,4 +1,6 @@
-**Lecture 8: ⏱️ Time Response Analysis**
+# **Lecture 8: ⏱️ Time Response Analysis**
+- 📕Course: Control System Engineering
+- 🤖Instructor: Md. Hassanul Karim Roni, Assistant Professor, EEE, HSTU,Dinajpur,BD
 
 ---
 
