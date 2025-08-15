@@ -1,6 +1,6 @@
-**Lecture 5: Transfer Function and Block Diagram Representation**
-*Course: Control System Engineering*
-*Instructor: HK Roni, Assistant Professor, EEE, HSTU,Dinajpur,BD*
+# **Lecture 5: Transfer Function and Block Diagram Representation**
+- 📕Course: Control System Engineering
+- 🤖Instructor: Md. Hassanul Karim Roni, Assistant Professor, EEE, HSTU,Dinajpur,BD
 
 ---
 
