@@ -1,4 +1,6 @@
-## **Lecture: History of Control System Engineering and Its Evolution**
+## **⚓Lecture: History of Control System Engineering and Its Evolution**
+- 📕Course: Control System Engineering
+- 🤖Instructor: Md. Hassanul Karim Roni, Assistant Professor, EEE, HSTU,Dinajpur,BD
 
 ---
 
