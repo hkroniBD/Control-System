@@ -1,4 +1,6 @@
-**Lecture 10: 🔄 Feedback Control Systems – Concepts and Applications**
+# **Lecture 10: 🔄 Feedback Control Systems – Concepts and Applications**
+- 📕Course: Control System Engineering
+- 🤖Instructor: Md. Hassanul Karim Roni, Assistant Professor, EEE, HSTU,Dinajpur,BD
 
 ---
 
