@@ -1,4 +1,6 @@
 # **Lecture 4 – Mathematical Modeling of Control Systems**
+- 📕Course: Control System Engineering
+- 🤖Instructor: Md. Hassanul Karim Roni, Assistant Professor, EEE, HSTU,Dinajpur,BD
 
 📌 *How real-world systems are expressed in mathematical form for analysis, simulation, and control design*
 
