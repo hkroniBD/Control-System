@@ -1,5 +1,6 @@
-**Lecture 12: ⚙️ Control System Design and Controller Tuning**
-
+# **Lecture 12: ⚙️ Control System Design and Controller Tuning**
+- 📕Course: Control System Engineering
+- 🤖Instructor: Md. Hassanul Karim Roni, Assistant Professor, EEE, HSTU,Dinajpur,BD
 ---
 
 ## **🧩 Ice-Breaker**
