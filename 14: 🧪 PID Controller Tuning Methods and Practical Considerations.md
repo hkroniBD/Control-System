@@ -1,5 +1,6 @@
-**Lecture 14: 🧪 PID Controller Tuning Methods and Practical Considerations**
-
+# **Lecture 14: 🧪 PID Controller Tuning Methods and Practical Considerations**
+- 📕Course: Control System Engineering
+- 🤖Instructor: Md. Hassanul Karim Roni, Assistant Professor, EEE, HSTU,Dinajpur,BD
 ---
 
 ## **🧩 Ice-Breaker**
