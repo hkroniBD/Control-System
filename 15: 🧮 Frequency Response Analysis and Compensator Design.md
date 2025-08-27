@@ -1,4 +1,6 @@
-**Lecture 15: 🧮 Frequency Response Analysis and Compensator Design**
+# **Lecture 15: 🧮 Frequency Response Analysis and Compensator Design**
+- 📕Course: Control System Engineering
+- 🤖Instructor: Md. Hassanul Karim Roni, Assistant Professor, EEE, HSTU,Dinajpur,BD
 
 ---
 
