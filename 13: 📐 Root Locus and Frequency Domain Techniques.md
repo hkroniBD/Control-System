@@ -1,4 +1,6 @@
-**Lecture 13: 📐 Root Locus and Frequency Domain Techniques**
+# **Lecture 13: 📐 Root Locus and Frequency Domain Techniques**
+- 📕Course: Control System Engineering
+- 🤖Instructor: Md. Hassanul Karim Roni, Assistant Professor, EEE, HSTU,Dinajpur,BD
 
 ---
 
