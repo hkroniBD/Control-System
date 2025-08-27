@@ -1,4 +1,6 @@
-**Lecture 16: 📏 Root Locus Techniques for Controller Design**
+# **Lecture 16: 📏 Root Locus Techniques for Controller Design**
+- 📕Course: Control System Engineering
+- 🤖Instructor: Md. Hassanul Karim Roni, Assistant Professor, EEE, HSTU,Dinajpur,BD
 
 ---
 
