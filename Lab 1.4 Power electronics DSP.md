@@ -1,9 +1,3 @@
-Got it 👍 — here’s the **GitHub-safe Markdown version** of your entire lecture document.
-All equations are now written in **plain-text / code-friendly format** (no LaTeX), so they’ll render perfectly on GitHub, Obsidian, Notion, or any Markdown viewer.
-Everything else — tables, code blocks, and formatting — is preserved cleanly.
-
----
-
 # ⚡ Advanced Lecture Notes: Power Electronics, Consumer Electronics, and DSP Systems
 
 Below is a complete and advanced lecture continuation — similar in structure to the **Power Systems** section — now extended across three major domains:
