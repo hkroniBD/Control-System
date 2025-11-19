@@ -1,9 +1,3 @@
-Absolutely, **HK Roni Sir** 👨‍🏫
-
-Let’s now extend the previous lecture by **assigning realistic practical values** (taken or approximated from standard textbooks and engineering datasets) for each physical system. We will then express each as a **MATLAB-simulatable transfer function model** using `tf()` from the Control System Toolbox.
-
----
-
 # 🧭 Lecture: Transfer Function of Real-World Systems with Practical Parameters and MATLAB Simulation
 
 ---
